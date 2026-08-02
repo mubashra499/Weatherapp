@@ -46,11 +46,13 @@ Weatherapp/
 
 ## ⚙️ Installation & Setup
 
-1. deploy repository:
 
+## ⚙️ Installation & Setup
 
- https://mubashra499.github.io/Weatherapp/
+1. Clone the repository:
 
+```bash
+git clone https://github.com/mubashra499/Weatherapp
 
 2. Go to project folder:
 
@@ -95,11 +97,16 @@ This project is deployed using GitHub Pages:
 https://mubashra499.github.io/Weatherapp/
 ```
 
-## 👩‍💻 Author
+
+
+
+***github deploy***
+https://mubashra499.github.io/Weatherapp/## 👩‍💻 Author
 
 **Mubashra Muhammad Yousuf**
 
 Frontend Developer | React.js Developer
+
 
 
 
